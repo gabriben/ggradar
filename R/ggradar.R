@@ -7,7 +7,7 @@
 
 
 ggradar <- function(plot.data,
-                             font.radar="Arial",
+                             font.radar="Helvetica",
                              values.radar = c("0%", "50%", "100%"),                       
                              axis.labels=colnames(plot.data)[-1],                             
                              grid.min=0,  #10,
